@@ -1,4 +1,4 @@
-# BSERC Project 1 — NotebookLM
+# BSERC Project 1 - NotebookLM
 
 A NotebookLM project for BSERC.
 
